@@ -2,6 +2,10 @@
 
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
+```
+Name: NIJEESH NJ
+Register No: 212223100039
+```
 ## Aim
 To securely exchange a message between two users using the ElGamal encryption and decryption algorithm, implemented in C.
 
